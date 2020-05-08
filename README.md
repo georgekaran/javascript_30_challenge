@@ -4,4 +4,4 @@
 
 ### Projects
 
-- 1 - Drum Kit
+- [01 - Drum Kit](https://github.com/georgekaran/javascript_30_challenge/tree/master/01_drum-kit)
