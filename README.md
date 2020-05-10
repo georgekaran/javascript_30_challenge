@@ -14,3 +14,4 @@ Repository from the projects built following guidances of [Javascript 30](https:
 - [06 - Type Ahead](https://github.com/georgekaran/javascript_30_challenge/tree/master/06_type_ahead)
 - [07 - Array Cardio Day 2](https://github.com/georgekaran/javascript_30_challenge/tree/master/07_array_cardio_day_2)
 - [08 - Fun with HTML5 Canvas](https://github.com/georgekaran/javascript_30_challenge/tree/master/08_fun_with_html5_canvas)
+- [09 - 14 Must Know Dev Tools Tricks](https://github.com/georgekaran/javascript_30_challenge/tree/master/09_14_must_know_dev_tools_tricks)

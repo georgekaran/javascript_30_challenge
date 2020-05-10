@@ -1,0 +1,3 @@
+## 14 Must Know Dev Tools Tricks
+
+In this exercise we explored the console tricks including count, group, dir, assert, etc...
