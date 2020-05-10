@@ -1,5 +1,7 @@
 ## Javascript 30 Day Challenge
 
+Repository from the projects built following guidances [Javascript 30](https://javascript30.com) by [Wes Bos](https://wesbos.com/).
+
 ![Javacript 30 Challenge](resources/javascript30_logo.png)
 
 ### Projects
@@ -9,3 +11,4 @@
 - [03 - CSS Variables](https://github.com/georgekaran/javascript_30_challenge/tree/master/03_css_variables)
 - [04 - Array Cardio Day 1](https://github.com/georgekaran/javascript_30_challenge/tree/master/04_array_cardio_day_1)
 - [05 - Flex Panel Galley](https://github.com/georgekaran/javascript_30_challenge/tree/master/05_flex_panel_gallery)
+- [06 - Type Ahead](https://github.com/georgekaran/javascript_30_challenge/tree/master/06_type_ahead)
