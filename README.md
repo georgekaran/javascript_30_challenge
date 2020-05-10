@@ -12,3 +12,4 @@ Repository from the projects built following guidances [Javascript 30](https://j
 - [04 - Array Cardio Day 1](https://github.com/georgekaran/javascript_30_challenge/tree/master/04_array_cardio_day_1)
 - [05 - Flex Panel Galley](https://github.com/georgekaran/javascript_30_challenge/tree/master/05_flex_panel_gallery)
 - [06 - Type Ahead](https://github.com/georgekaran/javascript_30_challenge/tree/master/06_type_ahead)
+- [07 - Array Cardio Day 2](https://github.com/georgekaran/javascript_30_challenge/tree/master/07_array_cardio_day_2)
