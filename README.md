@@ -18,5 +18,7 @@ Repository from the projects built following guidances of [Javascript 30](https:
 - [10 - Hold Shift and Check Checkboxes](https://github.com/georgekaran/javascript_30_challenge/tree/master/10_hold_shift_and_check_checkboxes)
 - [11 - Custom Video Player](https://github.com/georgekaran/javascript_30_challenge/tree/master/11_custom_video_player)
 - [12 - Key Sequence Detection (KONAMI CODE)](https://github.com/georgekaran/javascript_30_challenge/tree/master/12_key_sequence_detection)
+- [13 - Slide in on Scroll](https://github.com/georgekaran/javascript_30_challenge/tree/master/13_slide_in_on_scroll)
+
 
 
