@@ -16,3 +16,5 @@ Repository from the projects built following guidances of [Javascript 30](https:
 - [08 - Fun with HTML5 Canvas](https://github.com/georgekaran/javascript_30_challenge/tree/master/08_fun_with_html5_canvas)
 - [09 - 14 Must Know Dev Tools Tricks](https://github.com/georgekaran/javascript_30_challenge/tree/master/09_14_must_know_dev_tools_tricks)
 - [10 - Hold Shift and Check Checkboxes](https://github.com/georgekaran/javascript_30_challenge/tree/master/10_hold_shift_and_check_checkboxes)
+- [11 - Custom Video Player](https://github.com/georgekaran/javascript_30_challenge/tree/master/11_custom_video_player)
+
