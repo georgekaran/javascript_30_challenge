@@ -19,6 +19,8 @@ Repository from the projects built following guidances of [Javascript 30](https:
 - [11 - Custom Video Player](https://github.com/georgekaran/javascript_30_challenge/tree/master/11_custom_video_player)
 - [12 - Key Sequence Detection (KONAMI CODE)](https://github.com/georgekaran/javascript_30_challenge/tree/master/12_key_sequence_detection)
 - [13 - Slide in on Scroll](https://github.com/georgekaran/javascript_30_challenge/tree/master/13_slide_in_on_scroll)
+- [14 - Javascript References vs Copying](https://github.com/georgekaran/javascript_30_challenge/tree/master/14_javascript_references_vs_copying)
+
 
 
 
