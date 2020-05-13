@@ -23,6 +23,8 @@ Repository from the projects built following guidances of [Javascript 30](https:
 - [15 - LocalStorage and Event Delegation](https://github.com/georgekaran/javascript_30_challenge/tree/master/15_localstorage)
 - [16 - CSS Text Shadow Mouse Move Effect](https://github.com/georgekaran/javascript_30_challenge/tree/master/16_css_text_shadow_mouse_move_effect)
 - [17 - Sorting Band Names Without Articles](https://github.com/georgekaran/javascript_30_challenge/tree/master/17_sorting_band_names_without_articles)
+- [18 - Adding Up Times with Reduce](https://github.com/georgekaran/javascript_30_challenge/tree/master/18_talky_string_times_with_reduce)
+
 
 
 
