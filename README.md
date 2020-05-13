@@ -22,8 +22,7 @@ Repository from the projects built following guidances of [Javascript 30](https:
 - [14 - Javascript References vs Copying](https://github.com/georgekaran/javascript_30_challenge/tree/master/14_javascript_references_vs_copying)
 - [15 - LocalStorage and Event Delegation](https://github.com/georgekaran/javascript_30_challenge/tree/master/15_localstorage)
 - [16 - CSS Text Shadow Mouse Move Effect](https://github.com/georgekaran/javascript_30_challenge/tree/master/16_css_text_shadow_mouse_move_effect)
-
-
+- [17 - Sorting Band Names Without Articles](https://github.com/georgekaran/javascript_30_challenge/tree/master/17_sorting_band_names_without_articles)
 
 
 
